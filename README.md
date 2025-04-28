@@ -46,15 +46,12 @@
 
 
 ```
- git clone https://github.com/your-username/semantic-vector-search.git
- cd semantic-vector-search
-
+ git clone https://github.com/SubashGHub/Semantic-Vector-Search-Application.git
 ```
 2. Install Required Libraries
 
 ```
 pip install -r requirements.txt
-
 ```
 3. Set Up Environment Variables
 
@@ -67,13 +64,11 @@ Run the following to process the dataset and upload embeddings:
 
 ```
 python main.py
-
 ```
 5. Launch the Web Application
 
 ```
 streamlit run app_UI.py
-
 ```
 ## 🔥 Example
 
