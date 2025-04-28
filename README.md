@@ -5,6 +5,7 @@
 
                                                                                                                                 
 ## 📌 Overview
+
 - This project is a semantic vector search application built using **Python, Streamlit, and Pinecone.**
 - It demonstrates how semantic search works by retrieving relevant answers based on the meaning of the query rather than relying on exact keyword matches.
 
@@ -12,6 +13,8 @@
 
 - The primary goal of this project is to showcase the power of vector databases for intelligent information retrieval.
 - It offers a simple and interactive example of how embeddings, chunking, and similarity search can be combined to build smarter search systems.
+
+                                                                                                                                
 ## ✨ Features
 - **Data Processing:**
 
@@ -40,6 +43,10 @@
     - Users can input questions and view ranked results.
 
     - Includes session-based query limiting and reset functionality.
+
+
+
+                                                                                                                                
 ## ⚙️ Setup and Usage
 
 1. Clone the Repository
@@ -56,11 +63,11 @@ pip install -r requirements.txt
 3. Set Up Environment Variables
 
     - Create Account in Pinecone database to get API Key 
-    - Set up your Pinecone API into system "Environmental Variable".
+    - Set up your Pinecone API into system **"Environmental Variable".**
 
 4. Populate the Pinecone Index
 
-Run the following to process the dataset and upload embeddings:
+    - Run the following to process the dataset and upload embeddings:
 
 ```
 python main.py
@@ -79,6 +86,8 @@ streamlit run app_UI.py
     **"Explain the concept of Inheritance?"**
 
 - The app will retrieve the most semantically relevant answers from the dataset.
+
+- Ask from  " [List Of Question Here](https://github.com/SubashGHub/Semantic-Vector-Search-Application/blob/master/List%20Of%20Qus%20to%20Ask.txt) "
 ## 🛠 Tech Stack
 
 
