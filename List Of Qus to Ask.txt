@@ -1,0 +1,27 @@
+Trick Your Question to test the response.
+
+
+1. About JDK?
+2. About JRE?
+3. What is the difference between JDK and JRE?
+4. What is Java Virtual Machine (JVM)?
+5. What are the different types of memory areas allocated by JVM?
+6. What is JIT compiler?
+7. How Java platform is different from other platforms?
+8. Why people say that Java is 'write once and run anywhere' language?
+9. How does ClassLoader work in Java?
+10. Do you think ‘main’ used for main method is a keyword in Java?
+11. Can we write main method as public void static instead of public static void?
+12. What is the difference between byte and char data types in Java?
+13. What are the main principles of Object Oriented Programming?
+14. What is the difference between Object Oriented Programming language and Object Based Programming language?
+15. Why do we need constructor in Java?
+16. Why do we need default constructor in Java classes?
+17. What is the value returned by Constructor in Java?
+18. Can we inherit a Constructor?
+19. Why constructors cannot be final, static, or abstract in Java?
+20. What is the purpose of ‘this’ keyword in java?
+21. Explain the concept of Inheritance?
+22. Which class in Java is superclass of every other class?
+23. Why Java does not support multiple inheritance?
+24. Why do we need constructor in Java?
